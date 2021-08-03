@@ -1,0 +1,22 @@
+Student Study Management
+1. Attendence(Sign in and register)
+2. Quiz
+3. Result
+4. Syllabus
+5. Notes
+6. Time table
+7. Log Out
+
+Tools:
+1. C++
+2. Command Line Front
+3. File Handling 
+4. Time 
+
+Problem resolved:
+1. All the student work in one 
+2. Parents get all details
+3. The data like marks cannot be seen by any other student
+4. test practice
+5. On-time notes
+6. Syllabus data
